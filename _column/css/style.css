@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+/* navbar的字型 */
+
+/* .title{
+    border: solid 1px red;
+}
+.artical{ 
+    border: solid 1px black;
+
+} */
+/* .aTitle{ border: solid 1px red;}
+.aContent{ border: solid 1px red;}
+.aKeyword{ border: solid 1px red;} */
+
+.navbar-nav{
+    letter-spacing: 3px;
+    /* font-weight: bold; */
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container.artical{
+    flex-direction: column;
+}
+.colHashTag{
+    border: solid 1px brown;
+    border-radius: 25px;
+    display: inline;
+}
+
+.container-fluid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+}
+
+
